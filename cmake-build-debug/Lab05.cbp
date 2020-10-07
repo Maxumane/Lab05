@@ -83,6 +83,12 @@
 		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab05/main.cpp">
 			<Option target="Lab05"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab05/matrix.cpp">
+			<Option target="Lab05"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab05/matrix.hpp">
+			<Option target="Lab05"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab05/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
